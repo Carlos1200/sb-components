@@ -1,6 +1,5 @@
 {
   "name": "hg1200-my-storybook",
-  "private": "false",
   "version": "0.1.0",
   "license": "MIT",
   "typings": "dist/main.d.ts",
